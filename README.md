@@ -91,34 +91,27 @@ Inbalance300 / Inbalance 200 / Inbalance Mobile 등 전체적인 Android 개발�
 - 디지털 사이니지 편집기 구현
 - 수백 개의 항목을 AngularJS 컴파일러가 처리하는데 성능 문제가 발생하여, WebWorker에서 Virtual DOM으로 항목을 계산하고 DOM에 계산된 값을 패치하는 방식으로 문제 해결
 
-### DevOps
-- Travis CI로 지속적 통합 유지
-- Gulp로 빌드, 배포 환경 구축
 
 # 보유 기술 및 사용도구
-## 웹 프론트엔드
+## 사용가능 언어
 
-<img alt="" src="https://w.namu.la/s/d307e68a02cda1962f70371be5ba91c330d1ea6a281c20c89ec4af389f4652a65376506adf9cc76b4c3810632469645ff3a71b7e9202809da711adf1d7d89478b7654ff8d4eca695f2181fb7e489b56e004252848c6fa4fc987305baf79ebdb5" width="32" height="32"/> 
+<img alt="" src="https://w.namu.la/s/d307e68a02cda1962f70371be5ba91c330d1ea6a281c20c89ec4af389f4652a65376506adf9cc76b4c3810632469645ff3a71b7e9202809da711adf1d7d89478b7654ff8d4eca695f2181fb7e489b56e004252848c6fa4fc987305baf79ebdb5" /> 
 
 
-- 주로 사용하는 언어는 TypeScript, JavaScript 입니다.
-- React 라이브러리를 능숙하게 사용하며, Redux 구조에 익숙합니다.
-- Angular, AngularJS 프레임워크를 능숙하게 사용할 수 있습니다.
-- JavaScript VM이 어떻게 작동하는지 이해하고, 브라우저의 동작 원리를 이해합니다.
-- Less, Sass를 주로 사용합니다.
-- Web API를 능숙하게 사용할 수 있고, 웹 접근성을 고려하여 UI를 개발할 수 있습니다.
-- 어떤 방식의 UI 테스트가 쉽게 깨지지 않고 효율적일지 고민합니다.
-- BEM 방법론을 선호합니다.
-- RxJS 라이브러리를 능숙하게 다루며, 반응형 프로그래밍에 익숙합니다.
+- 주로 사용하는 언어는 Kotlin, Java 입니다.
+- MVVM 패턴을 선호하며 다룹니다.
+- RestFul API를 능숙하게 사용할 수 있고, Retrofit2.0 라이브러리를 사용합ㄴ디ㅏ.
+- Custom UI를 능숙하게 다룰수 있습니다.
+- 깔끔한 Base Code를 추구합니다.
+- Realm 라이브러리를 다룹니다.
+- RxAndroid 라이브러리를 다룹니다.
 
 ## 패턴 사용
 - MVC, MVVM 패턴을 이해하며 사용합니다.
 
 ## DevOps
-- 칸반을 이용한 애자일 개발 프로세스에 익숙합니다.
 - 테스트 주도 개발을 실천합니다.
 - 코드 리뷰가 습관화 되어 있습니다.
-- Travis CI로 지속적 통합을 진행할 수 있습니다.
 
 
 # 활동
@@ -131,5 +124,5 @@ Inbalance300 / Inbalance 200 / Inbalance Mobile 등 전체적인 Android 개발�
 * 호원고등학교 졸업 (2008.02 ~ 2010.12)
 
 # 더 보기
-- GitHub 프로필 : https://github.com/seokju-na
+- GitHub 프로필 : https://github.com/YunTaeSik
 - 블로그 : https://namget.tistory.com/
