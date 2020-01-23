@@ -98,7 +98,7 @@ Inbalance300 / Inbalance 200 / Inbalance Mobile 등 전체적인 Android 개발�
 # 보유 기술 및 사용도구
 ## 웹 프론트엔드
 
-<img alt="typescript" src="https://user-images.githubusercontent.com/13250888/53627369-a2059780-3c4b-11e9-88c2-58a7bd4a04e5.png" width="32" height="32"/> <img alt="javascript" src="https://user-images.githubusercontent.com/13250888/53627364-a16d0100-3c4b-11e9-84e2-a8c2f7311695.png" width="32" height="32"/> <img alt="react" src="https://user-images.githubusercontent.com/13250888/62798586-90d58680-bb19-11e9-9a82-9762725abede.png" width="32" height="32"/> <img alt="angular" src="https://user-images.githubusercontent.com/13250888/53627361-a16d0100-3c4b-11e9-97ee-8c87c15bf9a3.png" width="32" height="32"/> <img alt="rxjs" src="https://user-images.githubusercontent.com/13250888/53627366-a2059780-3c4b-11e9-8587-d959ed1e7119.png" width="32" height="32"/> <img alt="html5" src="https://user-images.githubusercontent.com/13250888/53627363-a16d0100-3c4b-11e9-8238-56153fb041e4.png" width="32" height="32"/> <img src="https://user-images.githubusercontent.com/13250888/53627368-a2059780-3c4b-11e9-95e3-9058d6a8afc7.png" alt="sass" width="32" height="32"/> <img alt="jest" src="https://user-images.githubusercontent.com/13250888/53627686-746d1e00-3c4c-11e9-9ec3-dd2398af09d2.png" width="32" height="32"/> <img alt="karma" src="https://user-images.githubusercontent.com/13250888/53627688-746d1e00-3c4c-11e9-8853-9a63d2cd989a.png" height="32"/> <img alt="nodejs" src="https://user-images.githubusercontent.com/13250888/53627689-7505b480-3c4c-11e9-9386-1656f03bb3d7.png" width="32" height="32" />
+<img alt="" src="https://w.namu.la/s/d307e68a02cda1962f70371be5ba91c330d1ea6a281c20c89ec4af389f4652a65376506adf9cc76b4c3810632469645ff3a71b7e9202809da711adf1d7d89478b7654ff8d4eca695f2181fb7e489b56e004252848c6fa4fc987305baf79ebdb5" width="32" height="32"/> 
 
 
 - 주로 사용하는 언어는 TypeScript, JavaScript 입니다.
@@ -122,24 +122,14 @@ Inbalance300 / Inbalance 200 / Inbalance Mobile 등 전체적인 Android 개발�
 
 
 # 활동
-* 고려대학교 맥주양조동아리 창립 및 1,2기 회장 (2017.9-2018.8)
-* 제 2회 고려대학교 해커톤: 고카톤 운영진 (2017.5-2017.8)
-* 제 5회 대학생 연합 해커톤 UNITHON 운영진 (2017.5-2017.7)
-* Naver D2SF 캠퍼스 파트너 1기 (2016.11-2017.3)
-* 실전 SW 창업 연합 동아리 REAL 5기 운영진 (2016.11-2017.6)
-* [소프트웨어 마에스트로](swmaestro.kr) 6기 연수생 (2015.7-2016.6)
+* 2016년도 대학 창업유망팀 300선발 : 교육부장관 (2016.05)
+* 공학경진대회 금상: 한성대학교 (2016.09)
 
 
 # 학력
-* 한성대학교 정보통신공학과 졸업 (2015.3-)
-* 호원고등학교 졸업 (2013.3-2015.2)
+* 한성대학교 정보통신공학과 졸업 (2011.03 ~ 2017.02)
+* 호원고등학교 졸업 (2008.02 ~ 2010.12)
 
 # 더 보기
 - GitHub 프로필 : https://github.com/seokju-na
-- MDN 프로필 : https://developer.mozilla.org/ko/profiles/seokju-na
-- 발표
-    * [비동기를 우아하게 처리하기 위한 Observable](https://slides.com/seokjume/observable), 2019.10.26, [FEConf 2019](https://2019.feconf.kr)
-    * [Zone과 fakeAsync](https://drive.google.com/open?id=14iqzQcqxeZtyjWWTdxv7xrmFyqKUyIo_), 2019.8.1, 토스팀 사내 엔지니어링 데이
-    * [프론트엔드 개발 끝장내기 (feat. Angular)](https://drive.google.com/open?id=1RqDz0ivfyTtN_GxzgcefOXaeIzQUQ-7o), 2019.6.22, GDG Campus Korea - [FRONT-ENDGAME: 여러분의 프런트엔드를 구할 어벤져스가 찾아옵니다](https://festa.io/events/317)
-    * [RxJS로 비동기와 친해지기](https://www.slideshare.net/SeokjuNa/rxjs-132918267), 2019.2.22, 토스팀 사내 엔지니어링 데이
-    * [Angular CDK로 높은 퀄리티의 UI 개발하기](https://drive.google.com/open?id=1hcuqv0lxFHjNVzod00cVDbBN9NB3BY1u), 2018.7.22, Seoul.js 라이트닝 토크
+- 블로그 : https://namget.tistory.com/
