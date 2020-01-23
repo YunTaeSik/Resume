@@ -1,6 +1,6 @@
 # 소개
 
-<img alt="깃헙 프로필 사진" src="https://raw.githubusercontent.com/seokju-na/resume/bf557431b5e7b5b84fed25020885dcc5e4ad79d9/assets/me_at_github.png" width="200">
+<img alt="깃헙 프로필 사진" src="https://avatars1.githubusercontent.com/u/23161645?s=460&v=4" width="200">
 
 * 나석주
 * Email : seokju.me@gmail.com
