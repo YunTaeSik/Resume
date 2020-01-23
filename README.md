@@ -27,10 +27,16 @@ Android 개발과 스타트업개발자로써 경험이 있습니다.
 
 
 # 프로젝트
-## Toss <img src="https://user-images.githubusercontent.com/13250888/53622309-b8582700-3c3c-11e9-927d-b2dbc3465892.png" alt="토스 로고" width="22" height="22"/>
-`비바리퍼블리카, 2019.2-`
+## Inbalance <img src="https://inbalance.co.kr/wp-content/uploads/2019/05/ib_logo.png" alt="Inbalance logo" width=100/>
+`아스테라시스, 2018.5-`
 
-BankService Silo에서 프론트엔드 개발을 하고 있습니다.
+Inbalance300 / Inbalance 200 / Inbalance Mobile 등 전체적인 Android 개발을 하고있습니다.  
+ [Inbalance 정보](https://inbalance.co.kr/kr/)
+ 
+ ### 개발
+- Android 관련 제품 개발 
+- JAVA 언어로 시작하여 Kotlin으로 유지보수 작업진행중
+- Android Unit Test
 
 ## Geek's Diary
 `개인 프로젝트, 2017.5-`
@@ -105,9 +111,8 @@ BankService Silo에서 프론트엔드 개발을 하고 있습니다.
 - BEM 방법론을 선호합니다.
 - RxJS 라이브러리를 능숙하게 다루며, 반응형 프로그래밍에 익숙합니다.
 
-## 아키텍처 및 디자인 패턴
-- 종속성 반전, 단일 책임 원칙, DRY 등 좋은 소프트웨어를 만들기 위한 원칙을 지키려고 노력합니다.
-- MVP, MVC, MVVM, Flux 아키텍처를 이해합니다.
+## 패턴 사용
+- MVC, MVVM 패턴을 이해하며 사용합니다.
 
 ## DevOps
 - 칸반을 이용한 애자일 개발 프로세스에 익숙합니다.
@@ -126,8 +131,8 @@ BankService Silo에서 프론트엔드 개발을 하고 있습니다.
 
 
 # 학력
-* 고려대학교 컴퓨터학과 2학년 휴학 (2015.3-)
-* 경남과학고등학교 조기 졸업 (2013.3-2015.2)
+* 한성대학교 정보통신공학과 졸업 (2015.3-)
+* 호원고등학교 졸업 (2013.3-2015.2)
 
 # 더 보기
 - GitHub 프로필 : https://github.com/seokju-na
