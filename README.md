@@ -104,8 +104,10 @@ local DB는 기존 Sqlite에서 Realm으로 변경했습니다.
 
 
 # 활동
-* 2016년도 대학 창업유망팀 300선발 : 교육부장관 (2016.05)
+* 2016 함께서울 앱 공모전 30위 : 서울시 (2016.12)
 * 공학경진대회 금상: 한성대학교 (2016.09)
+* 2016년도 대학 창업유망팀 300선발 : 교육부장관 (2016.05)
+* 한성대학교 SK 창업동아리 활동 (2016.02 ~ 2016.08)
 
 
 # 학력
@@ -115,3 +117,7 @@ local DB는 기존 Sqlite에서 Realm으로 변경했습니다.
 # 더 보기
 - GitHub 프로필 : https://github.com/YunTaeSik
 - 블로그 : https://namget.tistory.com/
+
+# 그 외 개인 프로젝트
+ - [IOS 형태 Calendar](https://github.com/YunTaeSik/Calendar_IOS)
+ - [BaseProject](https://github.com/YunTaeSik/BaseProject)
