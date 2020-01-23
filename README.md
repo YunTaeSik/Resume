@@ -51,7 +51,7 @@ local DB는 기존 Sqlite에서 Realm으로 변경했습니다.
  ### 개발
 - 커플 디데이 Android APP 개발 
 - JAVA로 개발했습니다.
-- Retrofit2.0, RxAndroid, Realm등 라이브러리 사용
+- RxAndroid, Realm등 라이브러리 사용
 - FireBase 연동(애널리틱스)
 - MVVM 패턴 적용
 - Android Unit Test  
@@ -64,16 +64,26 @@ local DB는 기존 Sqlite에서 Realm으로 변경했습니다.
  ### 개발
 - SNS Android APP 개발 
 - JAVA로 개발했습니다.
-- Retrofit2.0, RxAndroid, Realm등 라이브러리 사용
+- Volley, RxAndroid 라이브러리 사용
 - FireBase 연동(애널리틱스 / 클라우드메세지)
 - MVVM 패턴 적용
 - Android Unit Test  
+
+## [Coex Smart Mice](https://github.com/YunTaeSik/CoexSmartMice) <img src="https://lh3.googleusercontent.com/gy-wXTZG6mS3KMOd9CvBtgWmsemsNS2WE0uMgaJpgpVwAdHsnfNIQnLEo1LB4OD8skA=s180-rw" width=28/>
+`모젼스랩, 2015.08 ~ 2016.01`
+
+전시회 전 중 후 단계 별 지원 및 비콘을 이용한 실내 측위 서비스를 제공하는 토털 서비스 App 개발에 참여하였습니다.
+
+ ### 개발
+- Android APP 개발 
+- JAVA로 개발했습니다.
+- MVC 패턴 적용
 
 
 # 보유 기술 및 사용도구
 ## 사용가능 언어
 
-<img alt="" src="https://w.namu.la/s/d307e68a02cda1962f70371be5ba91c330d1ea6a281c20c89ec4af389f4652a65376506adf9cc76b4c3810632469645ff3a71b7e9202809da711adf1d7d89478b7654ff8d4eca695f2181fb7e489b56e004252848c6fa4fc987305baf79ebdb5" width = 40 height=40/><img alt="" src="https://ww.namu.la/s/3ff8fb808d84672e56b8e38de0b98b2985080f2b83cec3ed465563c3b7bb9b26dfe74c7d2f4e5d155fcdbef8162c840b45b08fe094c1d168632cf95cff2182de61467a7378ec7737db215c6b85dd7a739e60cee8de515630f9be92ca890f86d6" width = 40 height=40/> 
+<img alt="" src="https://w.namu.la/s/d307e68a02cda1962f70371be5ba91c330d1ea6a281c20c89ec4af389f4652a65376506adf9cc76b4c3810632469645ff3a71b7e9202809da711adf1d7d89478b7654ff8d4eca695f2181fb7e489b56e004252848c6fa4fc987305baf79ebdb5" width = 40 height=40/><img alt="" src="https://ww.namu.la/s/3ff8fb808d84672e56b8e38de0b98b2985080f2b83cec3ed465563c3b7bb9b26dfe74c7d2f4e5d155fcdbef8162c840b45b08fe094c1d168632cf95cff2182de61467a7378ec7737db215c6b85dd7a739e60cee8de515630f9be92ca890f86d6" width = 40 height=40/><img alt="c#" src="https://upload.wikimedia.org/wikipedia/commons/8/82/C_Sharp_logo.png" width = 40 height=40/><img alt="Swift" src="https://developer.apple.com/swift/images/swift-og.png" width = 40 height=40/>    
 
 
 - 주로 사용하는 언어는 Kotlin, Java 입니다.
