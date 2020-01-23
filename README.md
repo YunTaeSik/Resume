@@ -2,24 +2,28 @@
 
 <img alt="깃헙 프로필 사진" src="https://avatars1.githubusercontent.com/u/23161645?s=460&v=4" width="200">
 
-* 나석주
-* Email : seokju.me@gmail.com
-* Github : [github.com/seokju-na](https://github.com/seokju-na)
+* 윤태식
+* Email : sky877kr@gmail.com
+* Github : [github.com/seokju-na](https://github.com/YunTaeSik)
 
-
-좋은 개발자라면 자신의 기술에 관심과 애정을 갖고 늘 자신의 실력을 갈고닦아야 한다고 믿습니다. 저는 가치 있는 코드를 작성하는 장인이 되고 싶습니다. 또한, 비즈니스 가치와 높은 품질의 코드 사이를 조율할 수 있는 유연함을 갖추고자 노력합니다.
+Android 개발과 스타트업개발자로써 경험이 있습니다.  
+새로운 기술에 두려움을 갖지않고, 끊임없는 개발로 즐기겠습니다. 또한 가치있는 코드를 작성하고 좋은 프로젝트에 참여하고싶습니다.
 
 # 경력
-* [비바리퍼블리카](https://toss.im)
-    - Frontend Developer
-    - 기간 : 2019.2-
-* [타운컴퍼니](https://fb.com/towncompany)
-    - R&D 파트 개발팀
-    - 웹 프론트 엔지니어
-    - 기간 : 2017.9-2018.2, 2018.8-2018.12
-* [두닷두](http://www.dodotdo.com)
-    - 웹 프론트 엔지니어
-    - 기간 : 2016.3-2017.2
+* [아스테라시스](https://asterasys.com/kr/)
+    - 소프트웨어 개발팀
+    - Android Developer
+    - 직책 : 사원
+    - 기간 : 2018.5-
+* 소프
+    - 소프트웨어 연구소
+    - Android Developer
+    - 직책 : 연구원
+    - 기간 : 2017.04 ~ 2018.03
+* [모젼스랩](https://www.mogencelab.com/)
+    - Android Developer
+    - 직책 : 인턴
+    - 기간 : 2015.08 ~ 2016.01
 
 
 # 프로젝트
