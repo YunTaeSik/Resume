@@ -1,10 +1,11 @@
-# 소개
+# 소개 
 
 <img alt="깃헙 프로필 사진" src="https://avatars1.githubusercontent.com/u/23161645?s=460&v=4" width="200">
 
 * 윤태식
 * Email : sky877kr@gmail.com
 * Github : [github.com/seokju-na](https://github.com/YunTaeSik)
+* [![HitCount](http://hits.dwyl.io/YunTaeSik/Resume.svg)](http://hits.dwyl.io/YunTaeSik/Resume)
 
 Android 개발과 스타트업개발자로써 경험이 있습니다.  
 새로운 기술에 두려움을 갖지않고, 끊임없는 개발로 즐기겠습니다. 또한 가치있는 코드를 작성하고 좋은 프로젝트에 참여하고싶습니다.
