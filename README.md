@@ -100,6 +100,7 @@ local DB는 기존 Sqlite에서 Realm으로 변경했습니다.
 - MVC, MVVM 패턴을 이해하며 사용합니다.
 
 ## DevOps
+- Clean Architecture를 선호하며 학습중입니다.
 - 테스트 주도 개발을 실천합니다.
 - 코드 리뷰가 습관화 되어 있습니다.
 
