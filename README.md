@@ -122,5 +122,6 @@ local DB는 기존 Sqlite에서 Realm으로 변경했습니다.
 
 # 그 외 개인 프로젝트
 대부분의  소스는 GitHub에 올려놨습니다.
+ - [YtsCleanArchitecture](https://github.com/YunTaeSik/YtsCleanArchitecture)
  - [IOS 형태 Calendar](https://github.com/YunTaeSik/Calendar_IOS)
  - [BaseProject](https://github.com/YunTaeSik/BaseProject)
