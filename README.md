@@ -98,8 +98,9 @@ local DB는 기존 Sqlite에서 Realm으로 변경했습니다.
 - RxAndroid 라이브러리를 다룹니다.
 - 코드 리뷰가 습관화 되어 있습니다.
 
-## 패턴 사용
+## 패턴 / Architecture
 - MVC, MVVM 패턴을 이해하며 사용합니다.
+- Clean Architecture을 선호합니다.
 
 # 활동
 * 2016 함께서울 앱 공모전 30위 : 서울시 (2016.12)
