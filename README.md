@@ -26,7 +26,6 @@ Android 개발과 스타트업개발자로써 경험이 있습니다.
     - 직책 : 인턴
     - 기간 : 2015.08 ~ 2016.01
 
-
 # 프로젝트
 ## Inbalance <img src="https://inbalance.co.kr/wp-content/uploads/2019/05/ib_logo.png" alt="Inbalance logo" width=100/>
 `아스테라시스, 2018.05-`
