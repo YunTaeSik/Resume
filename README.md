@@ -7,8 +7,10 @@
 * Github : [github.com/YunTaeSik](https://github.com/YunTaeSik)
 * [![HitCount](http://hits.dwyl.io/YunTaeSik/Resume.svg)](http://hits.dwyl.io/YunTaeSik/Resume)
 
-Android 개발과 스타트업개발자로써 경험이 있습니다.  
-새로운 기술에 두려움을 갖지않고, 끊임없는 개발로 즐기겠습니다. 또한 가치있는 코드를 작성하고 좋은 프로젝트에 참여하고싶습니다.
+SNS, 코엑스, 헬스케어 분야에서 Android를 개발한 경험이있습니다.  
+저는 Clean Architecture 및 MVVM패턴을 선호 하며 다룹니다.  
+새로운 기술에 두려움을 갖지않고, 끊임없는 개발로 즐기겠습니다.  
+또한 가치있는 코드를 작성하고 좋은 프로젝트에 참여하고싶습니다.  
 
 # 경력
 * [아스테라시스](https://asterasys.com/kr/)
