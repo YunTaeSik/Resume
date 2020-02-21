@@ -4,7 +4,7 @@
 
 * 윤태식
 * Email : sky877kr@gmail.com
-* Github : [github.com/seokju-na](https://github.com/YunTaeSik)
+* Github : [github.com/YunTaeSik](https://github.com/YunTaeSik)
 * [![HitCount](http://hits.dwyl.io/YunTaeSik/Resume.svg)](http://hits.dwyl.io/YunTaeSik/Resume)
 
 Android 개발과 스타트업개발자로써 경험이 있습니다.  
