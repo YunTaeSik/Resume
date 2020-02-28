@@ -33,7 +33,7 @@ SNS, 코엑스 전시회, 헬스케어 및 미용기기 분야에서 Android를 
     - 기간 : 2015.08 ~ 2016.01
 
 # 프로젝트
-## Inbalance <img src="https://user-images.githubusercontent.com/23161645/75500573-bb812100-5a10-11ea-9806-278213a4f843.png" alt="GreenCar logo" width=100/>
+## GreenCar <img src="https://user-images.githubusercontent.com/23161645/75500573-bb812100-5a10-11ea-9806-278213a4f843.png" alt="GreenCar logo" width=40/>
 `그린카, 2020.03-`
 
 GreenCar Android App 개발 및 유지보수
@@ -52,7 +52,7 @@ Inbalance300 / Inbalance 200 / Inbalance Mobile 등 전체적인 Android 개발�
 - MVVM 패턴 적용
 - Android Unit Test
   
-## [TheDay Dday](https://github.com/YunTaeSik/TheDayDday) <img src="https://lh3.googleusercontent.com/d4hpayJPHTHUxFH6vYaYKu1yjeis7WBllVGBxbHKoLxMukm6N63A8zKdmwd9NruZDyY" width=28/>
+## [TheDay Dday](https://github.com/YunTaeSik/TheDayDday) <img src="https://lh3.googleusercontent.com/d4hpayJPHTHUxFH6vYaYKu1yjeis7WBllVGBxbHKoLxMukm6N63A8zKdmwd9NruZDyY" width=40/>
 `개인프로젝트, 2018.05 ~ 2018.07`
 
 커플 디데이를 기반으로한 MVVM패턴을 처음 공부하기 위해 만든앱입니다.
