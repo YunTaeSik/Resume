@@ -44,7 +44,7 @@ Inbalance300 / Inbalance 200 / Inbalance Mobile 등 전체적인 Android 개발�
 - Android Unit Test
   
 ## [TheDay Dday](https://github.com/YunTaeSik/TheDayDday) <img src="https://lh3.googleusercontent.com/d4hpayJPHTHUxFH6vYaYKu1yjeis7WBllVGBxbHKoLxMukm6N63A8zKdmwd9NruZDyY" width=28/>
-`개인프로젝트, 201805 ~ 201807`
+`개인프로젝트, 2018.05 ~ 2018.07`
 
 커플 디데이를 기반으로한 MVVM패턴을 처음 공부하기 위해 만든앱입니다.
 local DB는 기존 Sqlite에서 Realm으로 변경했습니다.
