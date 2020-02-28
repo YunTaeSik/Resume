@@ -13,7 +13,7 @@ SNS, 코엑스 전시회, 헬스케어 및 미용기기 분야에서 Android를 
 또한 가치있는 코드를 작성하고 좋은 프로젝트에 참여하고싶습니다.  
 
 # 경력
-* [아스테라시스](https://www.greencar.co.kr/index.do)
+* [](https://www.greencar.co.kr/index.do)
     - 플랫폼본부 UX·마케팅실 프론트엔드 파트
     - Android Developer
     - 기간 : 2020.03 ~ 
