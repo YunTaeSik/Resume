@@ -38,6 +38,9 @@
 
 GreenCar Android App 개발 및 유지보수
   
+ ### 개발
+- AOS, Android App 개발 
+  
 ## Inbalance <img src="https://inbalance.co.kr/wp-content/uploads/2019/05/ib_logo.png" alt="Inbalance logo" width=100/>
 `아스테라시스, 2018.05-`
 
