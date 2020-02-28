@@ -85,7 +85,10 @@ local DB는 기존 Sqlite에서 Realm으로 변경했습니다.
 # 보유 기술 및 사용도구
 ## 사용가능 언어
 
-<img alt="" src="https://w.namu.la/s/d307e68a02cda1962f70371be5ba91c330d1ea6a281c20c89ec4af389f4652a65376506adf9cc76b4c3810632469645ff3a71b7e9202809da711adf1d7d89478b7654ff8d4eca695f2181fb7e489b56e004252848c6fa4fc987305baf79ebdb5" width = 40 height=40/><img alt="" src="https://ww.namu.la/s/3ff8fb808d84672e56b8e38de0b98b2985080f2b83cec3ed465563c3b7bb9b26dfe74c7d2f4e5d155fcdbef8162c840b45b08fe094c1d168632cf95cff2182de61467a7378ec7737db215c6b85dd7a739e60cee8de515630f9be92ca890f86d6" width = 40 height=40/><img alt="c#" src="https://upload.wikimedia.org/wikipedia/commons/8/82/C_Sharp_logo.png" width = 40 height=40/><img alt="Swift" src="https://developer.apple.com/swift/images/swift-og.png" width = 40 height=40/>    
+<img alt="" src="https://user-images.githubusercontent.com/23161645/75500279-d1daad00-5a0f-11ea-8ad4-c1e39bfe3e9e.jpg" width = 40 height=40/>
+<img alt="" src="https://user-images.githubusercontent.com/23161645/75500377-18300c00-5a10-11ea-9152-d07ea80eb596.png" width = 40 height=40/>
+<img alt="c#" src="https://upload.wikimedia.org/wikipedia/commons/8/82/C_Sharp_logo.png" width = 40 height=40/>
+<img alt="Swift" src="https://developer.apple.com/swift/images/swift-og.png" width = 40 height=40/>    
 
 
 - 주로 사용하는 언어는 Kotlin, Java 입니다.
