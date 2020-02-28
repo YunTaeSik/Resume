@@ -13,6 +13,10 @@ SNS, 코엑스 전시회, 헬스케어 및 미용기기 분야에서 Android를 
 또한 가치있는 코드를 작성하고 좋은 프로젝트에 참여하고싶습니다.  
 
 # 경력
+* [아스테라시스](https://www.greencar.co.kr/index.do)
+    - 플랫폼본부 UX·마케팅실 프론트엔드 파트
+    - Android Developer
+    - 기간 : 2020.03 ~ 
 * [아스테라시스](https://asterasys.com/kr/)
     - 소프트웨어 개발팀
     - Android Developer
@@ -29,6 +33,11 @@ SNS, 코엑스 전시회, 헬스케어 및 미용기기 분야에서 Android를 
     - 기간 : 2015.08 ~ 2016.01
 
 # 프로젝트
+## Inbalance <img src="https://user-images.githubusercontent.com/23161645/75500573-bb812100-5a10-11ea-9806-278213a4f843.png" alt="GreenCar logo" width=100/>
+`그린카, 2020.03-`
+
+GreenCar Android App 개발 및 유지보수
+  
 ## Inbalance <img src="https://inbalance.co.kr/wp-content/uploads/2019/05/ib_logo.png" alt="Inbalance logo" width=100/>
 `아스테라시스, 2018.05-`
 
