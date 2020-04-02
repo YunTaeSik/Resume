@@ -42,7 +42,7 @@ GreenCar Android App 개발 및 유지보수
 - Android App 개발 
   
 ## Inbalance <img src="https://inbalance.co.kr/wp-content/uploads/2019/05/ib_logo.png" alt="Inbalance logo" width=100/>
-`아스테라시스, 2018.05-`
+`아스테라시스, 2018.05-2020.03`
 
 Inbalance300 / Inbalance 200 / Inbalance Mobile 등 전체적인 Android 개발을 하고있습니다.  
  [Inbalance 정보](https://inbalance.co.kr/kr/)
