@@ -41,10 +41,9 @@ GreenCar Android App V3.0 개발 및 기존 GreenCar Android App 유지보수
  ### 개발
 - Android App 개발 
 - JAVA, Kotlin  
-- Retrofit2.0, RxAndroid 라이브러리 사용  
+- Retrofit2.0, RxAndroid 
 - FireBase  
-- MVVM 패턴 적용  
-- Android Unit Test  
+- MVVM 패턴  
   
 ## Inbalance <img src="https://inbalance.co.kr/wp-content/uploads/2019/05/ib_logo.png" alt="Inbalance logo" width=100/>
 `아스테라시스, 2018.05-2020.03`
@@ -57,8 +56,8 @@ Inbalance300 / Inbalance 200 / Inbalance Mobile 등 전체적인 Android 개발�
 - JAVA 언어로 시작하여 Kotlin으로 유지보수 작업진행중
 - Retrofit2.0, RxAndroid, Realm등 라이브러리 사용
 - FireBase 연동(애널리틱스)
-- MVVM 패턴 적용
-- Android Unit Test
+- MVVM 패턴
+- Clean Architecture
   
 ## [TheDay Dday](https://github.com/YunTaeSik/TheDayDday) <img src="https://lh3.googleusercontent.com/d4hpayJPHTHUxFH6vYaYKu1yjeis7WBllVGBxbHKoLxMukm6N63A8zKdmwd9NruZDyY" width=28/>
 `개인프로젝트, 2018.05 ~ 2018.07`
@@ -72,8 +71,7 @@ local DB는 기존 Sqlite에서 Realm으로 변경했습니다.
 - JAVA로 개발했습니다.
 - RxAndroid, Realm등 라이브러리 사용
 - FireBase 연동(애널리틱스)
-- MVVM 패턴 적용
-- Android Unit Test  
+- MVVM 패턴 적용 
 
 ## [DreamSorf](https://github.com/YunTaeSik/DreamSorf)
 `소프, 2017.04-2018.03`
@@ -85,8 +83,7 @@ local DB는 기존 Sqlite에서 Realm으로 변경했습니다.
 - JAVA로 개발했습니다.
 - Volley, RxAndroid 라이브러리 사용
 - FireBase 연동(애널리틱스 / 클라우드메세지)
-- MVVM 패턴 적용
-- Android Unit Test  
+- MVC 패턴 적용
 
 ## [Coex Smart Mice](https://github.com/YunTaeSik/CoexSmartMice) <img src="https://lh3.googleusercontent.com/gy-wXTZG6mS3KMOd9CvBtgWmsemsNS2WE0uMgaJpgpVwAdHsnfNIQnLEo1LB4OD8skA=s180-rw" width=28/>
 `모젼스랩, 2015.08 ~ 2016.01`
