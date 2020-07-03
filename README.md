@@ -40,7 +40,7 @@ GreenCar Android App V3.0 개발 및 기존 GreenCar Android App 유지보수
   
  ### 개발
 - Android App 개발 
-- JAVA, Kotlin  
+- JAVA  
 - Retrofit2.0, RxAndroid 
 - FireBase  
 - MVVM 패턴  
