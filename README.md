@@ -36,12 +36,15 @@
 ## [GreenCar](https://play.google.com/store/apps/details?id=com.greencar) <img src="https://user-images.githubusercontent.com/23161645/75500573-bb812100-5a10-11ea-9806-278213a4f843.png" alt="GreenCar logo" width=40/>
 `그린카, 2020.03-`
 
-GreenCar Android App V3.0 개발 및 기존 GreenCar Android App 유지보수
+-GreenCar Android App V3.0 개발 
+-GreenCar 현장 지원 App 개발
   
  ### 개발
 - Android App 개발 
-- JAVA  
-- Retrofit2.0, RxAndroid 
+- JAVA, Kotlin
+- Retrofit2.0, RxAndroid
+- Clean Architecture
+- oroutine
 - FireBase  
 - MVVM 패턴  
   
