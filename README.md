@@ -44,7 +44,7 @@
 - JAVA, Kotlin
 - Retrofit2.0, RxAndroid
 - Clean Architecture
-- oroutine
+- Coroutine
 - FireBase  
 - MVVM 패턴  
   
