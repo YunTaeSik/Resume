@@ -45,7 +45,8 @@
 - Retrofit2.0, RxAndroid
 - Clean Architecture  
 - Koin
-- Coroutine
+- Coroutine  
+- Lottie
 - FireBase  
 - MVVM 패턴  
   
@@ -75,6 +76,7 @@ local DB는 기존 Sqlite에서 Realm으로 변경했습니다.
 - JAVA로 개발했습니다.
 - RxAndroid, Realm등 라이브러리 사용
 - FireBase 연동(애널리틱스)
+- Lottie
 - MVVM 패턴 적용 
 
 ## [DreamSorf](https://github.com/YunTaeSik/DreamSorf)
