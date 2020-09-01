@@ -43,7 +43,8 @@
 - Android App 개발 
 - JAVA, Kotlin
 - Retrofit2.0, RxAndroid
-- Clean Architecture
+- Clean Architecture  
+- Koin
 - Coroutine
 - FireBase  
 - MVVM 패턴  
