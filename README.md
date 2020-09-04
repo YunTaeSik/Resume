@@ -46,7 +46,8 @@
 - Clean Architecture  
 - Koin
 - Coroutine  
-- Lottie
+- Navigation Component
+- Lottie  
 - FireBase  
 - MVVM 패턴  
   
