@@ -45,6 +45,7 @@
 - Retrofit2.0, RxAndroid
 - Clean Architecture  
 - Koin
+- Room
 - Coroutine  
 - Navigation Component
 - Lottie  
@@ -115,7 +116,8 @@ local DB는 기존 Sqlite에서 Realm으로 변경했습니다.
 - Custom UI를 능숙하게 다룰수 있습니다.
 - Clean Architecture을 선호 하며 다룹니다.
 - 깔끔한 Base Code를 추구합니다.
-- FireBase를 연동 할수있으며 클라우드메세지/ 데이터베이스 / 애널리틱스등을 능숙하게 다룹니다.
+- FireBase를 연동 할수있으며 클라우드메세지/ 데이터베이스 / 애널리틱스등을 능숙하게 다룹니다.  
+- Room 다룹니다.
 - Realm 라이브러리를 다룹니다.
 - RxAndroid 라이브러리를 다룹니다.
 
