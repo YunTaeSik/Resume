@@ -14,7 +14,7 @@
 
 # 경력
 * [그린카](https://www.greencar.co.kr/index.do)
-    - 플랫폼본부 UX·마케팅실 프론트엔드 파트
+    - 플랫폼본부 기술개발실 App.Dev 파트
     - Android Developer
     - 기간 : 2020.03 ~ 
 * [아스테라시스](https://asterasys.com/kr/)
