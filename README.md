@@ -49,8 +49,8 @@
 - Coroutine  
 - Navigation Component
 - Lottie  
-- FireBase  
-- MVVM 패턴  
+- FireBase
+- MVC, MVVM 패턴  
   
 ## Inbalance <img src="https://inbalance.co.kr/wp-content/uploads/2019/05/ib_logo.png" alt="Inbalance logo" width=100/>
 `아스테라시스, 2018.05-2020.03`
