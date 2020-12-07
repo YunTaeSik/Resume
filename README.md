@@ -16,7 +16,7 @@
 * [그린카](https://www.greencar.co.kr/index.do)
     - 플랫폼본부 기술개발실 App.Dev 파트
     - Android Developer
-    - 기간 : 2020.03 ~ 
+    - 기간 : 2020.03 ~ 2020.12
 * [아스테라시스](https://asterasys.com/kr/)
     - 소프트웨어 개발팀
     - Android Developer
@@ -34,7 +34,7 @@
 
 # 프로젝트
 ## [GreenCar](https://play.google.com/store/apps/details?id=com.greencar) <img src="https://user-images.githubusercontent.com/23161645/75500573-bb812100-5a10-11ea-9806-278213a4f843.png" alt="GreenCar logo" width=40/>
-`그린카, 2020.03-`
+`그린카, 2020.03-2020.12`
 
 -GreenCar Android App V3.0 개발  
 -GreenCar 현장 지원 App 개발
