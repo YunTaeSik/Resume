@@ -13,7 +13,7 @@
 또한 가치있는 코드를 작성하고 좋은 프로젝트에 참여하고싶습니다.  
 
 # 경력  
-* [DeliveryHeroKorea](https://www.deliveryhero.co.kr/)
+* [Delivery Hero Korea](https://www.deliveryhero.co.kr/)
     - 파트
     - Android Developer
     - 기간 : 2020.12 ~ 
