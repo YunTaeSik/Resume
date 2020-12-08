@@ -13,8 +13,8 @@
 또한 가치있는 코드를 작성하고 좋은 프로젝트에 참여하고싶습니다.  
 
 # 경력  
-* [딜리버리히어로코리아](https://www.deliveryhero.co.kr/)
-    - 
+* [DeliveryHeroKorea](https://www.deliveryhero.co.kr/)
+    - 파트
     - Android Developer
     - 기간 : 2020.12 ~ 
 * [그린카](https://www.greencar.co.kr/index.do)
